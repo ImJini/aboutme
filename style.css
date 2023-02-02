@@ -74,13 +74,13 @@
     /* p.350 미디어 쿼리 작성위치 (보통 여기에 작성함) */
     @media screen and (max-width : 480px){/*미디어의 가로크키가 480일때 */ 
         #moto {
-            width: 400px;
+            width: 85%;
             height: 77px;
             line-height: 25px;
             background-image: url("ribbon-yred.png");
             background-repeat: no-repeat;
             background-size: contain;
-            font-size: .875rem;
+            font-size: 0.980rem;
             margin: 2rem auto;
         }
     }
