@@ -33,7 +33,7 @@
         width: 888px;  /*필수 */
         height: 75px;
         line-height: 65px;
-        background-image: url("ribbon-yred.png");
+        background-image: url("../images/ribbon-yred.png");
         font-size: 2.3rem;
         margin: 0 auto; /* (바깥) 여백 :  상하 0 , 좌우 알아서 (계산)  즉, 가운데에 배치하게 해라*/
     }
